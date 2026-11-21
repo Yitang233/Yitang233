@@ -9,4 +9,4 @@ MS Computer Science at UC San Diego · B.Eng. Computer Science at HKUST · forme
 - [HARP: Efficient Data Selection for Finetuning Large Language Models](https://arxiv.org/abs/2606.07690)
 - [agent-rewind: Selective Recovery for Multi-Agent LLM Workflows](https://github.com/Yitang233/agent-rewind)
 
-[Website](https://yitang233.github.io/) · [LinkedIn](https://www.linkedin.com/in/yitang-gao-05b17b451)
+[Website](https://yitang233.github.io/) · [LinkedIn](https://www.linkedin.com/in/yitang-gao)
